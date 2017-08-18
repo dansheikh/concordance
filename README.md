@@ -19,3 +19,8 @@ __Notes__:
 
 1. Above setup assumes `concordance.git` is cloned within `~/Downloads`
 2. Concordance occurrence locations are zero-indexed
+
+# Minimum Requirements
+
+1. Python 3.6.0
+2. NLTK 3.2.2
