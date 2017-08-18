@@ -15,4 +15,7 @@ Given an arbitrary text document written in English, the application will genera
 
 6. Launch application with: `/home/dev/Projects/concordance/app.py [corpus file path] [concordance (CSV) file path]`
 
-__Note__: Above setup assumes `concordance.git` is cloned within `~/Downloads`
+__Notes__:
+
+1. Above setup assumes `concordance.git` is cloned within `~/Downloads`
+2. Concordance occurrence locations are zero-indexed
